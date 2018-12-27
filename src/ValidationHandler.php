@@ -1,14 +1,12 @@
 <?php
 /**
- * kiwi-suite/command-bus-validation (https://github.com/kiwi-suite/command-bus-validation)
- *
- * @package kiwi-suite/command-bus-validation
- * @link https://github.com/kiwi-suite/command-bus-validation
- * @copyright Copyright (c) 2010 - 2018 kiwi suite GmbH
+ * @link https://github.com/ixocreate
+ * @copyright IXOCREATE GmbH
  * @license MIT License
  */
 
 declare(strict_types=1);
+
 namespace Ixocreate\CommandBusValidation;
 
 use Ixocreate\CommandBus\Result\Result;
