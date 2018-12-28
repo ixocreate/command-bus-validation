@@ -2,7 +2,7 @@
 
 # IXOCREATE command-bus-validation
 
-[![Build Status](https://travis-ci.org/ixocreate/command-bus-validation.svg?branch=master)](https://travis-ci.org/ixocreate/command-bus-validation)
+[![Build Status](https://travis-ci.com/ixocreate/command-bus-validation.svg?branch=master)](https://travis-ci.com/ixocreate/command-bus-validation)
 [![Coverage Status](https://coveralls.io/repos/github/ixocreate/command-bus-validation/badge.svg?branch=develop)](https://coveralls.io/github/ixocreate/command-bus-validation?branch=develop)
 [![Packagist](https://img.shields.io/packagist/v/ixocreate/command-bus-validation.svg)](https://packagist.org/packages/ixocreate/command-bus-validation)
 [![Packagist Pre Release](https://img.shields.io/packagist/vpre/ixocreate/command-bus-validation.svg)](https://packagist.org/packages/ixocreate/command-bus-validation)
