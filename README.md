@@ -1,5 +1,3 @@
-**This is a draft. Don't use in production**
-
 # IXOCREATE command-bus-validation
 
 [![Build Status](https://travis-ci.com/ixocreate/command-bus-validation.svg?branch=master)](https://travis-ci.com/ixocreate/command-bus-validation)
@@ -14,6 +12,13 @@ Install the package via composer:
 
 ```sh
 composer require ixocreate/command-bus-validation
+```
+
+## Testing
+
+```sh
+composer install --dev
+phpunit
 ```
 
 ## License
