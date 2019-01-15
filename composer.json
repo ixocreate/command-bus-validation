@@ -12,9 +12,9 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.1",
-        "ixocreate/contract": "dev-develop",
-        "ixocreate/command-bus": "dev-develop",
-        "ixocreate/validation": "dev-develop"
+        "ixocreate/contract": "=1.0.0-alpha1",
+        "ixocreate/command-bus": "=1.0.0-alpha1",
+        "ixocreate/validation": "=1.0.0-alpha1"
     },
     "require-dev": {
         "ixocreate/coding-standard": "^1.0",
