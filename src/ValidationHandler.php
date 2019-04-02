@@ -49,6 +49,6 @@ final class ValidationHandler implements HandlerInterface
             return $dispatcher->dispatch($command);
         }
 
-        return new Result(ResultInterface::STATUS_ERROR, $command, (array) $validationResult->all());
+        return new Result(ResultInterface::STATUS_ERROR, $command, $validationResult->all()->toArray());
     }
 }
